@@ -1,3 +1,10 @@
-body{
-  background: green;
+body {
+    background: green;
+}
+.fizz {
+    background-color: #bc6363;
+    font-family: "Courier New", Courier, monospace;
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
 }
